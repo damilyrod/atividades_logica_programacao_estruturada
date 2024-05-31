@@ -1,0 +1,44 @@
+head{
+    text-align: center;
+}
+
+
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e8d5ea;
+background: radial-gradient(circle, #e0cde3e0 26%, #be89bd80 47%);
+  
+}
+
+#btn_calcular{
+    color: white;
+    font-size: medium;
+    border-radius: 6px;
+    background-color: #266f26;
+    height: 2rem;
+}
+
+
+label{
+    font-style: inherit;
+}
+
+input{
+    height: 30px;
+    margin-bottom: 8px;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+}
+
+input:disabled{
+    background-color: hsl(240, 7%, 97%);
+    text-align: center;
+}
+
+#topo{
+    text-align: justify;
+}
